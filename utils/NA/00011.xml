@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NA</folder>
+	<filename>00011.jpg</filename>
+	<path>C:\Users\SaltGardenia\Documents\Project\11.4\NA\00011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>124</ymin>
+			<xmax>179</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>
